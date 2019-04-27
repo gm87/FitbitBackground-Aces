@@ -1,0 +1,5 @@
+<svg>
+  <image href="ace.png" />
+  <text id="myLabel"></text>
+  <text id="myDate"></text>
+</svg>
